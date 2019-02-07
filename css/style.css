@@ -1,0 +1,53 @@
+.admintitle {
+    background-color: rgb(167, 149, 149);
+    border-bottom-width: 0px;
+    border-top-width: 0px;
+    color: rgb(255, 255, 255);
+    display: block;
+    height: 36.3494px;
+    margin-left: 50px;
+    padding-bottom: 50px;
+    padding-left: 500px;
+    padding-top: 20px;
+    width: 675.824px;
+}
+
+
+.dashbord {
+    margin-left: 50px;
+    border-left-width: 50px;
+    padding-left: 500px;
+    text-shadow: -2px 0px 12px black;
+    color: #E91E63;
+    box-shadow: 0px 1px #b91212;
+    background-color: #68a3d2;
+}
+
+body {
+    background-color: #cdda49;
+}
+
+h3{
+    padding-right: 20px;
+    padding-left: 600px;
+    width: .001;
+    height: .001;
+    width: 1px;
+    height: 1px;
+}
+
+.addstudent {
+    width: 100px;
+    height: 100px;
+    padding-left: 600px;
+    margin-top: 10px;
+    border-top-width: 10px;
+}
+/*h2{
+    padding-left: 50px;
+    padding-top: 0px;
+    border-top-width: 20px;
+    margin-top: 20px;
+    width: 200px;
+    height: 1px;
+}*/
